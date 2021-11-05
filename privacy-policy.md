@@ -15,6 +15,8 @@ We do not have a sign-in process in which users must provide Personally Identifi
 
 (2) We do not collect or store any other Usage Data. 
 
+(3) We obtain your email address when you request support via email or customer support contact form. We use your email only to contact you to provide support or feedback.
+
 Our Application works in offline mode, unless the user enables phone backups such as iCloud, all user entries stay offline as well.
 
 <h4>Mode and Place of Processing the Data</h4>
